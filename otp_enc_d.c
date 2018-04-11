@@ -1,7 +1,7 @@
 
 /*********************************************
 **Author: Mike Mann
-**Description: Program 4 otp_enc_d implementation. Closely follows the lecture examples for client.c and server.c
+**Description: File Encryptor. Program 4 otp_enc_d implementation.
 ********************************************/
 
 #include <stdio.h>
@@ -24,7 +24,7 @@ char theKey[100000];
 char cipheredTxt[100000];
 struct sockaddr_in serverAddress, clientAddress;
 int spawnPid;
-//char validLetters[27];
+
 
 //check usage and args
 if(argc < 2)

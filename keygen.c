@@ -1,3 +1,9 @@
+/**********************************
+**Author: Mike Mann
+**Descrition:   Generates a random key. 
+**              File Encryption and Decryption project that uses a randomly generated key for OS 344.
+************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

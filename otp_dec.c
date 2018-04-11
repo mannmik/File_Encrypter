@@ -1,3 +1,8 @@
+/**********************************
+**Author: Mike Mann
+**Descrition:  File Decryptor. Program 4 otp_dec_d implementation.  
+************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>

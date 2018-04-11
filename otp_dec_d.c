@@ -1,7 +1,7 @@
 
 /*********************************************
 **Author: Mike Mann
-**Description: Program 4 otp_dec_d implementation. Closely follows the lecture examples for client.c and server.c
+**Description: File Decryptor. Program 4 otp_dec_d implementation. 
 ********************************************/
 
 #include <stdio.h>

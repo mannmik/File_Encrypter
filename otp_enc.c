@@ -1,6 +1,6 @@
 /*********************************************
 **Author: Mike Mann
-**Description: Program 4 otp_enc implementation. Closely follows the lecture examples for client.c and server.c
+**Description: File Encryptor. Program 4 otp_enc implementation.
 ********************************************/
 
 #include <stdio.h>
